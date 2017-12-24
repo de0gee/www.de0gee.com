@@ -1,0 +1,26 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "de0gee"
+theme = "kube"
+description = "de0g33 is X"
+Paginate = 4
+pygmentsCodeFences=true 
+[Params]
+  RSSLink = "/index.xml"
+  author = "de0gee" # add your company name
+  github = "de0gee" # add your github profile name
+  twitter = "de0gee" # add your twitter profile
+  email = "webmaster@de0gee.com"
+
+[[menu.main]]
+    name = "Docs"
+    weight = -100
+    url = "/docs/"
+[[menu.main]]
+    name = "Blog"
+    weight = -100
+    url = "/blog/"
+[[menu.main]]
+    name = "Faq"
+    weight = -100
+    url = "/faq/"
