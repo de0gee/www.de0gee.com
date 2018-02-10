@@ -18,14 +18,14 @@ The examples are Unix-oriented but it should be easy to adapt them to a Windows 
 
 
 ## What is de0gee?
-We made a device, that senses your pets enviorment, movement and location. All of the data is displayed on you Andriod or Apple smartphone, or a desktop PC, tablet or any other Internet machine. 
+We made a device, that senses your pets environment, movement and location. All of the data is displayed on you Android or Apple smartphone, or a desktop PC, tablet or any other Internet machine.
 
 For more information you can email me directly at de0geedotcom AT gmail.com
 
 
 
 ## What are the goals of the project?
-We try have a fairly simple plan, used less battery and gain more wireless distance. Battery life, is honestly one of our main drivers. If we can make our sensor last weeks, or a month, or more between charging we will have suceeded. The unit must also provide usuable, readable data. All of the complicated mathmatic and code must be executed flawlessly while being simple to us.
+We try have a fairly simple plan, used less battery and gain more wireless distance. Battery life, is honestly one of our main drivers. If we can make our sensor last weeks, or a month, or more between charging we will have succeeded. The unit must also provide usable, readable data. All of the complicated mathematics and code must be executed flawlessly while being simple to us.
 
 
 ## Can I use de0gee on my phone?
@@ -37,8 +37,8 @@ Yes
 
 
 ## How does de0gee handle security?
-Pretty poorly to start. We have some options, but the real challange is to make it user friendly wihile protecting your home network. We have an onboard hardware encryptor for our Silicon Labs EFR32, we think that will solve the wireless data encryption, and the rest of the security will be implemented at the back end. But we are open to suggestions....
+Pretty poorly to start. We have some options, but the real challenge is to make it user friendly while protecting your home network. We have an on-board hardware encryption for our Silicon Labs EFR32, we think that will solve the wireless data encryption, and the rest of the security will be implemented at the back end. But we are open to suggestions....
 
 
 ## Can I design an app for de0gee?
-Please do, let us know how we can help. We want to server people with disabilities, service dogs and indoor navigation for the visually impaired. A dor collar seemed like a good place to start and hopefully implement a Bluetooth 5 Mesh function, but that is not ready today.
+Please do, let us know how we can help. We want to server people with disabilities, service dogs and indoor navigation for the visually impaired. A dog collar seemed like a good place to start and hopefully implement a Bluetooth 5 Mesh function, but that is not ready today.
