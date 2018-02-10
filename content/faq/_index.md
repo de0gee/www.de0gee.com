@@ -41,4 +41,4 @@ Pretty poorly to start. We have some options, but the real challenge is to make 
 
 
 ## Can I design an app for de0gee?
-Please do, let us know how we can help. We want to server people with disabilities, service dogs and indoor navigation for the visually impaired. A dog collar seemed like a good place to start and hopefully implement a Bluetooth 5 Mesh function, but that is not ready today.
+Please do, let us know how we can help. We want to serve people with disabilities, service dogs and indoor navigation for the visually impaired. A dog collar seemed like a good place to start and hopefully implement a Bluetooth 5 Mesh function, but that is not ready today.
