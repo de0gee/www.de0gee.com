@@ -25,7 +25,7 @@ For more information you can email me directly at de0geedotcom AT gmail.com
 
 
 ## What are the goals of the project?
-We try to have a fairly simple plan, used less battery and gain more wireless distance. Battery life, is honestly one of our main drivers. If we can make our sensor last weeks, or a month, or more between charging we will have succeeded. The unit must also provide usable, readable data. All of the complicated mathematics and code must be executed flawlessly while being simple to us.
+We have a simple plan, use less battery and gain more wireless distance. Battery life, is honestly one of our main drivers. If we can make our sensor last weeks, or a month, or more between charging we will have succeeded. The unit must also provide usable, readable data. All of the complicated mathematics and code must be executed flawlessly while being simple to us.
 
 
 ## Can I use de0gee on my phone?
