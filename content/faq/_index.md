@@ -17,7 +17,7 @@ $ run this
 The examples are Unix-oriented but it should be easy to adapt them to a Windows environment.
 
 
-## What is de0gee?
+## What is find2?
 
 
 
@@ -25,14 +25,14 @@ The examples are Unix-oriented but it should be easy to adapt them to a Windows 
 
 
 
-## Can I use de0gee on my phone?
+## Can I use find2 on my phone?
 
 
 
-## Can I access de0gee from a web browser?
+## Can I access find2 from a web browser?
 
 
-## How does de0gee handle security?
+## How does find2 handle security?
 
 
-## Can I design an app for de0gee?
+## Can I design an app for find2?

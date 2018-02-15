@@ -1,10 +1,10 @@
 +++
 title = "The datastore"
-description = "Guide to the datastore server for running de0gee applications"
+description = "Guide to the datastore server for running find2 applications"
 weight = 10
 draft = false
 toc = true
-bref = "The datastore server handles concurrent and high-access storage of de0gee data"
+bref = "The datastore server handles concurrent and high-access storage of find2 data"
 +++
 
 <h3 class="section-head" id="intro"><a href="#intro">Introduction</a></h3>
