@@ -1,5 +1,5 @@
 +++
-description = "find2 is X"
+description = "de0gee is X"
 title = "deogee"
 draft = false
 

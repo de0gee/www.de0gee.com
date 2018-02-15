@@ -1,16 +1,16 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "find2"
+title = "de0gee"
 theme = "kube"
 description = "de0g33 is X"
 Paginate = 4
 pygmentsCodeFences=true 
 [Params]
   RSSLink = "/index.xml"
-  author = "find2" # add your company name
-  github = "find2" # add your github profile name
-  twitter = "find2" # add your twitter profile
-  email = "webmaster@find2.com"
+  author = "de0gee" # add your company name
+  github = "de0gee" # add your github profile name
+  twitter = "de0gee" # add your twitter profile
+  email = "webmaster@de0gee.com"
 
 [[menu.main]]
     name = "Docs"
